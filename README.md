@@ -6,6 +6,7 @@ Hello! I am the Founding Fuzzing Engineer at [Perimeter](https://cantina.xyz/gui
 
 | Protocol                                  | Protocol Type            | Completed Date | Report                                                                                          |
 | ----------------------------------------- | ------------------------ | -------------- | ----------------------------------------------------------------------------------------------- |
+| [Polkastarter](https://polkastarter.com)  | Staking                  | Mar. 18, 2024  |                                                                                                 |
 | [Abracadabra](https://abracadabra.money/) | DEX                      | Mar. 11, 2024  |                                                                                                 |
 | [Jones DAO](https://www.jonesdao.io)      | Yield, Vaults, Migration | Feb. 28, 2024  |                                                                                                 |
 | [Ambit Finance](https://ambit.finance/)   | Lending, Vaults          | Dec. 6, 2023   | [Report](https://github.com/ljz3/portfolio/blob/main/guardian-audits/2023-12-06_Ambit.pdf)      |
