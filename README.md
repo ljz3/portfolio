@@ -1,6 +1,6 @@
 # 0xScourgedev Portfolio
 
-Hello! I am the Founding Fuzzing Engineer at [Perimeter](https://cantina.xyz/guilds/perimeter) and serve as a Fuzzing Engineer at [Guardian Audits](https://guardianaudits.com). I have developed comprehensive fuzzing suites for many notable projects, please see below. Previously, I acted as a technical team lead at a blockchain startup, which raised funds in the 7-figure range. I have also contributed to the development of smart contracts of large scale projects such as Parallel TCG.
+Hello! I am the CEO and Lead Fuzzing Specialist at [Perimeter](https://cantina.xyz/guilds/perimeter). I have developed comprehensive fuzzing suites for many notable projects, please see below.
 
 ## Private Engagements
 
