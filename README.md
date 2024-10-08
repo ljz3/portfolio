@@ -6,22 +6,24 @@ Previously, I was a technical Team Lead at a successful blockchain startup that 
 
 ## Fuzzing Engagements
 
-| Protocol                                  | Protocol Type            | Engagement Type            | Completed Date | Report                                                                                          | Code |
-| ----------------------------------------- | ------------------------ | -------------------------- | -------------- | ----------------------------------------------------------------------------------------------- | ---- |
-| [Pendle](https://www.pendle.finance)      | Restaking                | Fuzzing Private Engagement | May 8, 2024    |                                                                                                 |      |
-| [Synthetix](https://synthetix.io)         | Perpetuals               | Fuzzing with Guardian      | Apr. 18, 2024  |                                                                                                 |      |
-| [Polkastarter](https://polkastarter.com)  | Staking                  | Fuzzing with Guardian      | Mar. 18, 2024  |                                                                                                 |      |
-| [Abracadabra](https://abracadabra.money/) | DEX                      | Fuzzing with Guardian      | Mar. 11, 2024  | [Report](https://github.com/ljz3/portfolio/blob/main/guardian-audits/2024-03-21_MIMSwap.pdf)    | [Code](https://github.com/ljz3/abracadabra-money-contracts-fuzz-public/tree/main/src/fuzzing) |
-| [Jones DAO](https://www.jonesdao.io)      | Yield, Vaults, Migration | Fuzzing with Guardian      | Feb. 28, 2024  |                                                                                                 |      |
-| [Ambit Finance](https://ambit.finance/)   | Lending, Vaults          | Fuzzing with Guardian      | Dec. 6, 2023   | [Report](https://github.com/ljz3/portfolio/blob/main/guardian-audits/2023-12-06_Ambit.pdf)      |      |
-| [Poolshark](https://www.poolshark.fi/)    | Concentrated Liquidity   | Fuzzing with Guardian      | Aug. 21, 2023  | [Report](https://github.com/ljz3/portfolio/blob/main/guardian-audits/Poolshark_Limit_Audit.pdf) |      |
+| Protocol                                  | Protocol Type            | Engagement Type                   | Completed Date | Report                                                                                          | Code |
+| ----------------------------------------- | ------------------------ | --------------------------------- | -------------- | ----------------------------------------------------------------------------------------------- | ---- |
+| Private                                   | -                        | Fuzzing Engagement with Perimeter | Sep 2024       |                                                                                                 |      |
+| Private                                   | -                        | Fuzzing Engagement with Perimeter | Sep 2024       |                                                                                                 |      |
+| [Pendle](https://www.pendle.finance)      | Restaking                | Fuzzing Private Engagement        | May 2024       |                                                                                                 |      |
+| [Synthetix](https://synthetix.io)         | Perpetuals               | Fuzzing with Guardian             | Apr 2024       |                                                                                                 |      |
+| [Polkastarter](https://polkastarter.com)  | Staking                  | Fuzzing with Guardian             | Mar 2024       |                                                                                                 |      |
+| [Abracadabra](https://abracadabra.money/) | DEX                      | Fuzzing with Guardian             | Mar 2024       | [Report](https://github.com/ljz3/portfolio/blob/main/guardian-audits/2024-03-21_MIMSwap.pdf)    | [Code](https://github.com/ljz3/abracadabra-money-contracts-fuzz-public/tree/main/src/fuzzing) |
+| [Jones DAO](https://www.jonesdao.io)      | Yield, Vaults, Migration | Fuzzing with Guardian             | Feb 2024       |                                                                                                 |      |
+| [Ambit Finance](https://ambit.finance/)   | Lending, Vaults          | Fuzzing with Guardian             | Dec 2023       | [Report](https://github.com/ljz3/portfolio/blob/main/guardian-audits/2023-12-06_Ambit.pdf)      |      |
+| [Poolshark](https://www.poolshark.fi/)    | Concentrated Liquidity   | Fuzzing with Guardian             | Aug 2023       | [Report](https://github.com/ljz3/portfolio/blob/main/guardian-audits/Poolshark_Limit_Audit.pdf) |      |
 
 ## Other Engagements
 
 | Protocol                                  | Protocol Type            | Function    | Engagement Type                      | Completed Date | Report | Code |
 | ----------------------------------------- | ------------------------ | ----------- | ------------------------------------ | -------------- | ------ | ---- |
-| [Tapioca DAO](https://www.tapioca.xyz)    | Cross-chain              | Supervision | Testing Reinforcement with Perimeter | Jun. 10, 2024  |        |      |
-| [Tapioca DAO](https://www.tapioca.xyz)    | Cross-chain              | Supervision | Testing Reinforcement with Perimeter | May 28, 2024   |        |      |
+| [Tapioca DAO](https://www.tapioca.xyz)    | Cross-chain              | Supervision | Testing Reinforcement with Perimeter | Jun 2024       |        |      |
+| [Tapioca DAO](https://www.tapioca.xyz)    | Cross-chain              | Supervision | Testing Reinforcement with Perimeter | May 2024       |        |      |
 
 ## Testimonials
 
