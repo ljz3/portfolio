@@ -1,6 +1,6 @@
 # 0xScourgedev Portfolio
 
-Hello! I serve as the CEO and Lead Fuzzing Specialist at [Perimeter](https://perimetersec.io), with extensive experience in performing fuzzing engagements for some of the largest DeFi protocols, including [Pendle](https://www.pendle.finance), [Immutable](https://www.immutable.com) and various other protocols, please see below.
+Hello! I serve as the CEO and Lead Fuzzing Specialist at [Perimeter](https://perimetersec.io), with extensive experience in performing fuzzing engagements for some of the largest DeFi protocols, including [Berachain](https://www.berachain.com), [Pendle](https://www.pendle.finance), [Immutable](https://www.immutable.com) and various other protocols, please see below.
 
 Previously, I was a technical Team Lead at a successful blockchain startup that secured seven-figure funding. I also previously contributed to the development of smart contracts for large scale projects such as [Parallel TCG](https://parallel.life).
 
